@@ -18,7 +18,7 @@ Siempre me han llamado la atención las computadoras y cómo funcionan sus siste
 | NumPy | Básico |
 | MATLAB | Fundamentos |
 
- **Lo que quiero aprender pronto:**
+ **Lo que quiero aprender pronto: TypeScript**
 ##  Proyectos destacados
 
 - 🏨 **[Sistema de Recomendación de Hoteles](https://github.com/Paolaavega/Recomendacion-de-Hoteles)**: red neuronal con TensorFlow/Keras que recomienda hoteles según costo, ubicación y estrellas.
